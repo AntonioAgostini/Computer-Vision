@@ -1,0 +1,5 @@
+1 - Image Processing, Frequency Domain and Feature Description.ipynb :
+https://colab.research.google.com/drive/1_iEf37AuVBElD8VvEBiNmSqHf7JBBupf#scrollTo=KOk3USHnad-T
+
+1.1 - Medical Imaging.ipynb :
+https://colab.research.google.com/drive/1vuUkeWyGWYIackg63Y2c2ekA2gMdeXsa
