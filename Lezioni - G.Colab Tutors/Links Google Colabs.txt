@@ -3,3 +3,9 @@ https://colab.research.google.com/drive/1_iEf37AuVBElD8VvEBiNmSqHf7JBBupf#scroll
 
 1.1 - Medical Imaging.ipynb :
 https://colab.research.google.com/drive/1vuUkeWyGWYIackg63Y2c2ekA2gMdeXsa
+
+tutorial_deep_learning_for_cv.pynb :
+https://colab.research.google.com/drive/1uzU8O0wpwo1QhfLpaRiXo6421fHcxwrf?usp=sharing
+
+tutorial_03_multi_view_geometry.ipynb :
+https://colab.research.google.com/drive/1tQlDPkbo49-izWpFuryDXjfeIpgywUbU?usp=sharing
