@@ -12,3 +12,6 @@ https://colab.research.google.com/drive/15cywBdaeh8Zof1CcDMkjIuGhnoACmcUs
 
 tutorial_03_multi_view_geometry.ipynb :
 https://colab.research.google.com/drive/1U8qZhOzpJ4s3Q3XJJBwJBXZB-ICWng2S
+
+ddpm_mnist_tutorial.ipynb :
+https://colab.research.google.com/drive/1V_qfZeYUTqhLjFL3TlBP-6LC3mN61Nlg
